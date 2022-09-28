@@ -8,7 +8,7 @@ I've been over 5 years in software development industry, as it become my daily l
 
 * 🌍  I'm based in Syria
 * ✉️  You can contact me at [alaa.zamel23@gmail.com](mailto:alaa.zamel23@gmail.com)
-* 🚀  I'm currently working on [an E-Commerce Web System](http://github.com/alaazamelDev/online-shop--full-stack-.git)
+* 🚀  I'm currently working on [Fitness & Workout applicaiton](http://github.com/alaazamelDev/gofit.git)
 * 🧠  I'm learning Node.js
 * 🤝  I'm open to collaborating on Interesting Projects and New Ideas
 * ⚡  Fun Fact: I consider learning a new tech as a holiday hobby
